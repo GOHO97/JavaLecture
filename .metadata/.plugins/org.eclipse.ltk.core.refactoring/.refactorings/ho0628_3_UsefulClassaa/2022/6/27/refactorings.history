@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;StringCleaner.java&apos; to &apos;ho0628_2_UsefulClass/src/com.soldesk.ho0628.main&apos;&#x0D;&#x0A;- Original project: &apos;ho0628_3_UsefulClassaa&apos;&#x0D;&#x0A;- Destination element: &apos;ho0628_2_UsefulClass/src/com.soldesk.ho0628.main&apos;&#x0D;&#x0A;- Original element: &apos;com.soldesk.ho.stringcleaner.cleaner.StringCleaner.java&apos;" description="Copy compilation unit" destination="=ho0628_2_UsefulClass/src&lt;com.soldesk.ho0628.main" element1="/src&lt;com.soldesk.ho.stringcleaner.cleaner{StringCleaner.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1656393892466" units="1" version="1.0"/>
+</session>

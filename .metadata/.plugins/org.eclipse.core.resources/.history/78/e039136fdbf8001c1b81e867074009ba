@@ -1,0 +1,38 @@
+package com.soldesk.ho0701.main;
+
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class UCMain {
+	public static void main(String[] args) {
+		BufferedReader br = null;
+		try {
+			FileInputStream fis = new FileInputStream("D:/ho/mise/kakaoTalkChats.txt");
+			InputStreamReader isr = new InputStreamReader(fis, "utf-8");
+			br = new BufferedReader(isr);
+
+			String line = null;
+			StringTokenizer st = null;
+			while ((line = br.readLine()) != null) {
+				if (line.contains(" : ")) {
+					st = new StringTokenizer(line.split(" : ")[1], " ");
+					while (st.hasMoreTokens()) {
+						System.out.println(st.nextToken());
+					}
+				}
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		try {
+			br.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

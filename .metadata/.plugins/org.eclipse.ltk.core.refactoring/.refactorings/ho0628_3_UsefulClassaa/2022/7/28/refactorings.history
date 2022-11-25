@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.soldesk.ho.db.manager.hoDBManager&apos; to &apos;HoDBManager&apos;&#x0D;&#x0A;- Original project: &apos;ho0628_3_UsefulClassaa&apos;&#x0D;&#x0A;- Original element: &apos;com.soldesk.ho.db.manager.hoDBManager&apos;&#x0D;&#x0A;- Renamed element: &apos;com.soldesk.ho.db.manager.HoDBManager&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;hoDBManager&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.soldesk.ho.db.manager{hoDBManager.java[hoDBManager" matchStrategy="1" name="HoDBManager" qualified="false" references="true" similarDeclarations="false" stamp="1657093152155" textual="false" version="1.0"/>
+</session>

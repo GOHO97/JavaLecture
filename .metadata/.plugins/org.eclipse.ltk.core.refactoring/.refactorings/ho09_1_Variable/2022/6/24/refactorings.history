@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;restaurantName&apos; in &apos;VMain3.main(...)&apos; to &apos;finedining&apos;&#x0D;&#x0A;- Original project: &apos;ho09_1_Variable&apos;&#x0D;&#x0A;- Original element: &apos;VMain3.main(String[]).restaurantName&apos;&#x0D;&#x0A;- Renamed element: &apos;restaurantName&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;restaurantName&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{VMain3.java[VMain3~main~\[QString;@restaurantName!70!100!77!90!QString;!0!false" name="finedining" references="true" stamp="1654752212043" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;line&apos; in &apos;com.soldesk.ho0630.collection.subway.Subway&apos; to &apos;lineNum&apos;&#x0D;&#x0A;- Original project: &apos;ho0630_1_UsefulClass_Collection&apos;&#x0D;&#x0A;- Original element: &apos;com.soldesk.ho0630.collection.subway.Subway.line&apos;&#x0D;&#x0A;- Renamed element: &apos;com.soldesk.ho0630.collection.subway.Subway.lineNum&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;line&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.soldesk.ho0630.collection.subway{Subway.java[Subway^line" name="lineNum" references="true" setter="false" stamp="1656567497480" textual="false" version="1.0"/>
+</session>

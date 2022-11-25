@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;yyyyyy&apos; in &apos;OMain.main(...)&apos; to &apos;y&apos;&#x0D;&#x0A;- Original project: &apos;ho09_1_Operator&apos;&#x0D;&#x0A;- Original element: &apos;OMain.main(String[]).yyyyyy&apos;&#x0D;&#x0A;- Renamed element: &apos;yyyyyy&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;yyyyyy&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{OMain.java[OMain~main~\[QString;@yyyyyy!235!266!239!244!I!0!false" name="y" references="true" stamp="1654760209390" version="1.0"/>
+</session>

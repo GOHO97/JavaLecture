@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;seat&apos; in &apos;com.soldesk.ho.OOP.restaurant.Ramen&apos; to &apos;empty&apos;&#x0D;&#x0A;- Original project: &apos;ho0622_2_OOP_encapsulation&apos;&#x0D;&#x0A;- Original element: &apos;com.soldesk.ho.OOP.restaurant.Ramen.seat&apos;&#x0D;&#x0A;- Renamed element: &apos;com.soldesk.ho.OOP.restaurant.Ramen.empty&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;seat&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.soldesk.ho.OOP.restaurant{Ramen.java[Ramen^seat" name="empty" references="true" setter="false" stamp="1655865065392" textual="false" version="1.0"/>
+</session>

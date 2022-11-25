@@ -1,0 +1,23 @@
+package com.soldesk.ho0706.human;
+
+public class Human {
+	
+	private void ready() {
+		System.out.println("¾Ä°í");
+		System.out.println("¿ÊÀÔ°í");
+		System.out.println("¿¤º£Å¸°í ³»·Á°¡¼­");
+	}
+	
+	public void goSchool() {
+		ready();
+		System.out.println("°É¾î¼­");
+		System.out.println("ÇÐ±³µµÂø");
+		
+	}
+	
+	public void goMart() {
+		ready();
+		System.out.println("Â÷ ²ø°í");
+		System.out.println("¸¶Æ® µµÂø");
+	}
+}
